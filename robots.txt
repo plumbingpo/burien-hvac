@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://burienhvac.com/sitemap.xml
